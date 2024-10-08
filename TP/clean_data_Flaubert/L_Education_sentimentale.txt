@@ -1,35 +1,11 @@
-    
-
-Title: OEuvres completes de Gustave Flaubert, tome 3: L'education sentimentale, v. 1
+  
 
 
-Release date: August 24, 2015 [eBook #49773]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  Au lecteur
-
-  Cette version electronique reproduit dans son integralite
-  la version originale.
 
   La ponctuation n'a pas ete modifiee hormis quelques corrections
   mineures.
 
-  L'orthographe a ete conservee. Seuls quelques mots ont ete modifies.
+   Seuls quelques mots ont ete modifies.
   La liste des modifications se trouve a la fin du texte.
 
 
@@ -42,6 +18,7 @@ Release date: August 24, 2015 [eBook #49773]
 
   DE
 
+  GUSTAVE FLAUBERT
 
 
   III
@@ -55,6 +32,7 @@ Release date: August 24, 2015 [eBook #49773]
 
   A. QUANTIN, IMPRIMEUR-EDITEUR
 
+  RUE SAINT-BENOIT, 7
 
   1885
 
@@ -353,6 +331,7 @@ caisses d'orangers. Puis tout disparut.
 La petite fille jouait autour de lui. Frederic voulut la baiser. Elle
 se cacha derriere sa bonne; sa mere la gronda de n'etre pas aimable
 pour le monsieur qui avait sauve son chale. Etait-ce une ouverture
+indirecte?
 
 <<Va-t-elle enfin me parler?>> se demandait-il.
 
@@ -369,6 +348,7 @@ marmites de goudron, des eclats de bois; et des gamins couraient sur le
 sable, en faisant la roue. Frederic reconnut un homme avec un gilet a
 manches, il lui cria:
 
+<<Depeche-toi.>>
 
 On arrivait. Il chercha peniblement Arnoux dans la foule des passagers,
 et l'autre repondit en lui serrant la main:
@@ -621,6 +601,7 @@ republicains; enfin, elle crut savoir qu'il avait conduit son fils
 dans des lieux deshonnetes. On surveilla leurs relations. Ils ne
 s'en aimerent que davantage; et les adieux furent penibles, quand
 Deslauriers, l'annee suivante, partit du college, pour etudier le droit
+a Paris.
 
 Frederic comptait bien l'y rejoindre. Ils ne s'etaient pas vus depuis
 deux ans; et, leurs embrassades etant finies, ils allerent sur les
@@ -647,7 +628,7 @@ jeunes. Je te rejoindrai! N'y pense plus!>>
 Il le secouait par les mains, et, pour le distraire, lui fit des
 questions sur son voyage.
 
-Frederic n'eut pas grand'chose a narrer. Mais, au souvenir de Mme
+ Mais, au souvenir de Mme
 Arnoux, son chagrin s'evanouit. Il ne parla pas d'elle, retenu par une
 pudeur. Il s'etendit en revanche sur Arnoux, rapportant ses discours,
 ses manieres, ses relations; et Deslauriers l'engagea fortement a
@@ -753,9 +734,7 @@ Et, le domestique etant parti:
 n'est utile comme de frequenter une maison riche! Puisque tu as un
 habit noir et des gants blancs, profites-en! Il faut que tu ailles dans
 ce monde-la! Tu m'y meneras plus tard. Un homme a millions, pense donc!
-Arrange-toi pour lui plaire, et a sa femme aussi. Deviens son amant!>>
-
-Frederic se recriait.
+Arrange-toi pour lui plaire, et a sa femme aussi. 
 
 <<Mais je te dis la des choses classiques, il me semble? Rappelle-toi
 Rastignac dans _la Comedie humaine!_ Tu reussiras, j'en suis sur!>>
@@ -883,6 +862,7 @@ cocher lacha les renes, le cheval frola la borne brusquement, et tout
 disparut.
 
 
+
 Il regrettait de n'avoir pu distinguer Mme Dambreuse.
 
 Un peu plus haut que la rue Montmartre, un embarras de voitures lui fit
@@ -914,10 +894,11 @@ Un employe souleva la portiere et repondit que Monsieur ne serait
 pas <<au magasin>> avant cinq heures. Mais si la commission pouvait se
 transmettre...
 
-<<Non! je reviendrai,>> repliqua doucement Frederic.
+ je reviendrai,>> repliqua doucement Frederic.
 
 Les jours suivants furent employes a se chercher un logement; et il
 se decida pour une chambre au second etage, dans un hotel garni, rue
+Saint-Hyacinthe.
 
 En portant sous son bras un buvard tout neuf, il se rendit a
 l'ouverture des cours. Trois cents jeunes gens, nu-tete, emplissaient
@@ -1131,7 +1112,7 @@ Frederic ajouta en palissant:
 
 Frederic oublia d'emporter sa gravure.
 
-L'hiver se termina. Il fut moins triste au printemps, se mit a preparer
+ Il fut moins triste au printemps, se mit a preparer
 son examen, et, l'ayant subi d'une facon mediocre, partit ensuite pour
 Nogent.
 
@@ -1199,7 +1180,7 @@ d'huitres contre la borne d'un marchand de vin:
 Le vieillard releva une face hideuse ou l'on distinguait, au milieu
 d'une barbe grise, un nez rouge et deux yeux avines stupides.
 
-<<Non! tu me parais plutot _un de ces hommes a figure patibulaire que
+ tu me parais plutot _un de ces hommes a figure patibulaire que
 l'on voit, dans divers groupes, semant l'or a pleines mains_... Oh!
 seme, mon patriarche, seme! Corromps-moi avec les tresors d'Albion!
 _Are you English?_ Je ne repousse pas les presents d'Artaxerces!
@@ -1241,8 +1222,10 @@ Cependant, du fond de la place, quelques-uns crierent:
 <<A bas Guizot!
 
 
+
 --A bas les vendus!
 
+--A bas Louis-Philippe!>>
 
 La foule oscilla, et, se pressant contre la porte de la cour qui
 etait fermee, elle empechait le professeur d'aller plus loin. Il
@@ -1265,6 +1248,7 @@ regardaient. Quelques-uns entonnaient _la Marseillaise_; d'autres
 proposaient d'aller chez Beranger.
 
 <<Chez Laffitte!
+
 
 
 --Chez Voltaire!>> hurla le jeune homme a moustaches blondes.
@@ -1460,7 +1444,7 @@ Hussonnet manqua le rendez-vous; il en manqua trois autres. Un samedi,
 vers quatre heures, il apparut. Mais, profitant de la voiture, il
 s'arreta d'abord au Theatre-Francais pour avoir un coupon de loge; il
 se fit descendre chez un tailleur, chez une couturiere; il ecrivait des
-billets chez les concierges. Enfin ils arriverent boulevard Montmartre.
+billets chez les concierges. 
 Frederic traversa la boutique, monta l'escalier. Arnoux le reconnut
 dans la glace placee devant son bureau; et, tout en continuant a
 ecrire, lui tendit la main par-dessus l'epaule.
@@ -1607,6 +1591,7 @@ voix feminine s'eleva:
 Il y eut un long silence, Mlle Vatnaz reparut. Arnoux lui avait encore
 promis quelque chose.
 
+<<Oh! oh! plus tard, nous verrons!
 
 --Adieu, homme heureux!>> dit-elle en s'en allant.
 
@@ -1619,7 +1604,7 @@ genre Boucher, est-ce convenu?
 
 --Soit, dit l'artiste, devenu rouge.
 
---Bon! et n'oubliez pas ma femme!>>
+ et n'oubliez pas ma femme!>>
 
 Frederic accompagna Pellerin jusqu'au haut du faubourg Poissonniere, et
 lui demanda la permission de venir le voir quelquefois, faveur qui fut
@@ -1669,6 +1654,7 @@ telle religion, qu'elle le montait presque jusqu'a eux.
 
 Mais pourquoi ne parlait-il jamais de Mme Arnoux? Quant a son mari,
 tantot il l'appelait un bon garcon, d'autres fois un charlatan.
+
 
 Un jour en feuilletant un de ses cartons, il trouva dans le portrait
 d'une bohemienne quelque chose de Mlle Vatnaz, et, comme cette personne
@@ -1790,17 +1776,19 @@ disparaitre.
 --Oh! pour celle-la, c'est la mienne, reprit Arnoux. Elle montait me
 faire une petite visite, en passant.
 
+--Comment? dit Frederic.
 
 --Mais oui! elle s'en retourne chez elle, a la maison.>>
 
 Le charme des choses ambiantes se retira tout a coup. Ce qu'il y
 sentait confusement epandu venait de s'evanouir, ou plutot n'y avait
 jamais ete. Il eprouvait une surprise infinie et comme la douleur d'une
+trahison.
 
 Arnoux, en fouillant dans son tiroir, souriait. Se moquait-il de lui?
 Le commis deposa sur la table une liasse de papiers humides.
 
-<<Ah! les affiches! s'ecria le marchand. Je ne suis pas pres de diner ce
+<<Ah! les affiches!  Je ne suis pas pres de diner ce
 soir!>>
 
 Regimbart prenait son chapeau.
@@ -1821,6 +1809,7 @@ autour de son desir plus immense que jamais!
 
 --Prendre qui?
 
+--L'absinthe!>>
 
 Et, cedant a ses obsessions, Frederic se laissa conduire a l'estaminet
 Bordelais. Tandis que son compagnon, pose sur le coude, considerait
@@ -1844,6 +1833,7 @@ Il se livrait a des travaux clandestins, tels que portraits aux
 deux crayons ou pastiches de grands maitres pour les amateurs peu
 eclaires; et, comme ces travaux l'humiliaient, il preferait se taire,
 generalement. Mais <<la crasse d'Arnoux>> l'exasperait trop. Il se
+soulagea.
 
 D'apres une commande, dont Frederic avait ete le temoin, il lui
 avait apporte deux tableaux. Le marchand, alors, s'etait permis des
@@ -1988,7 +1978,7 @@ provincial.
 --Merci, repliqua le clerc,>> en rentrant sous sa chaise ses vieux
 souliers a cordons.
 
-Cette humiliation gena Frederic. Il reculait a faire son aveu. Enfin,
+ Il reculait a faire son aveu. Enfin,
 il s'ecria, comme saisi par une idee:
 
 <<Ah! saprelotte, j'oubliais!
@@ -2168,6 +2158,7 @@ exclusive de sa personne. Il regardait attentivement les effiles de sa
 coiffure, caressant par le bout son epaule nue; et il n'en detachait
 pas ses yeux, il enfoncait son ame dans la blancheur de cette chair
 feminine; cependant, il n'osait lever ses paupieres, pour la voir plus
+haut, face a face.
 
 Rosenwald les interrompit, en priant Mme Arnoux de chanter quelque
 chose. Il preluda, elle attendait; ses levres s'entr'ouvrirent, et un
@@ -2205,6 +2196,7 @@ Il quitta ses amis; il avait besoin d'etre seul. Son coeur debordait.
 Pourquoi cette main offerte? Etait-ce un geste irreflechi, ou un
 encouragement? <<Allons donc! je suis fou!>> Qu'importait d'ailleurs,
 puisqu'il pouvait maintenant la frequenter tout a son aise, vivre dans
+son atmosphere.
 
 Les rues etaient desertes. Quelquefois une charrette lourde passait,
 en ebranlant les paves. Les maisons se succedaient avec leurs facades
@@ -2313,7 +2305,7 @@ chefs-d'oeuvre!
 
 --Comment?
 
---Non! monsieur, vous n'avez pas le droit de m'interesser a des choses
+ monsieur, vous n'avez pas le droit de m'interesser a des choses
 que je reprouve! Qu'avons-nous besoin de laborieuses bagatelles, dont
 il est impossible de tirer aucun profit, de ces Venus, par exemple,
 avec tous vos paysages? Je ne vois pas la d'enseignement pour le
@@ -2421,6 +2413,7 @@ l'aurons!
 Malgre ses opinions democratiques, il l'engageait a s'introduire chez
 les Dambreuse. L'autre objectait ses tentatives.
 
+<<Bah! retournes-y! On t'invitera!>>
 
 Ils recurent, vers le milieu du mois de mars, parmi des notes assez
 lourdes, celles du restaurateur qui leur apportait a diner. Frederic,
@@ -2695,6 +2688,7 @@ d'elle.
 Deslauriers la trouvait <<pas mal, sans avoir pourtant rien
 d'extraordinaire>>.
 
+<<Ah! 
 
 Arriva le mois d'aout, epoque de son deuxieme examen. D'apres l'opinion
 courante, quinze jours devaient suffire pour en preparer les matieres.
@@ -2732,6 +2726,7 @@ comme pour applaudir, tandis que Deslauriers prodiguait les haussements
 d'epaules. Enfin, le moment arriva ou il fallut repondre sur la
 Procedure! Il s'agissait de la tierce opposition. Le professeur, choque
 d'avoir entendu des theories contraires aux siennes, lui demanda d'un
+ton brutal:
 
 <<Et vous, monsieur, est-ce votre avis? Comment conciliez-vous le
 principe de l'article 1351 du Code civil avec cette voie d'attaque
@@ -2842,7 +2837,7 @@ Champagne avec deux verres; et d'un ton brusque:
 
 <<Vous avez quelque chose a me demander, cher ami?
 
---Non! rien! rien!>> balbutia le jeune homme, cherchant un pretexte a sa
+ rien! rien!>> balbutia le jeune homme, cherchant un pretexte a sa
 visite.
 
 Enfin, il dit qu'il etait venu savoir de ses nouvelles, car il le
@@ -3090,6 +3085,7 @@ meme, en disant:
 
 <<Vous permettez, n'est-ce pas, selon le privilege des amis?>>
 
+Frederic balbutia:
 
 <<Il me semble que nous sommes tous des amis?
 
@@ -3125,7 +3121,7 @@ pareille douleur, il avait senti se reveiller sa tendresse, et il le
 reconforta. Un homme comme lui se laisser abattre, quelle sottise!
 Passe encore dans la jeunesse, mais plus tard, c'est perdre son temps.
 
-<<Tu me gates mon Frederic! Je redemande l'ancien. Garcon, toujours du
+ Je redemande l'ancien. Garcon, toujours du
 meme! Il me plaisait! Voyons, fume une pipe, animal! Secoue-toi un peu,
 tu me desoles!
 
@@ -3178,7 +3174,7 @@ causer avec elles.
 
 Deslauriers fut jaloux de ces allures. Il aborda cyniquement une grande
 blonde, vetue de nankin. Apres l'avoir considere d'un air maussade,
-elle dit: <<Non! pas de confiance, mon bonhomme!>> et tourna les talons.
+elle dit:  pas de confiance, mon bonhomme!>> et tourna les talons.
 
 Il recommenca pres d'une grosse brune, qui etait folle sans doute,
 car elle bondit des le premier mot, en le menacant, s'il continuait,
@@ -3322,6 +3318,7 @@ rythme s'accelerait; derriere le cloitre moyen age, on entendit des
 crepitations, des petards eclaterent; des soleils se mirent a tourner;
 la lueur des feux de Bengale, couleur d'emeraude, eclaira pendant une
 minute tout le jardin;--et, a la derniere fusee, la multitude exhala un
+grand soupir.
 
 Elle s'ecoula lentement. Un nuage de poudre a canon flottait dans
 l'air. Frederic et Deslauriers marchaient au milieu de la foule pas a
@@ -3340,8 +3337,9 @@ Hussonnet, qui s'etait absente depuis cinq minutes, reparut au meme
 moment.
 
 Une jeune fille s'appuyait sur son bras, en l'appelant tout haut <<mon
+petit chat>>.
 
-<<Mais non! lui disait-il. Non! pas en public! Appelle-moi Vicomte,
+<<Mais non! lui disait-il.  pas en public! Appelle-moi Vicomte,
 plutot! Ca vous donne un genre cavalier, Louis XIII et bottes molles,
 qui me plait! Oui, mes bons, une ancienne! N'est-ce pas qu'elle est
 gentille?>> Il lui prenait le menton. <<Salue ces messieurs! ce sont tous
@@ -3616,7 +3614,7 @@ Pendant que Frederic parlait au commis, Mlle Vatnaz survint, et fut
 desappointee de ne pas voir Arnoux. Il resterait la-bas encore deux
 jours, peut-etre. Le commis lui conseilla <<d'y aller;>> elle ne pouvait
 y aller; d'ecrire une lettre, elle avait peur que la lettre ne fut
-perdue. Frederic s'offrit a la porter lui-meme. Elle en fit une
+perdue.  Elle en fit une
 rapidement, et le conjura de la remettre sans temoins.
 
 Quarante minutes apres, il debarquait a Saint-Cloud.
@@ -3665,7 +3663,7 @@ Elle l'en remercia beaucoup. Alors, il dit:
 
 --De quoi donc? reprit-elle. Je ne comprends pas!
 
---A table! fit Arnoux, en le saisissant par le bras; puis, dans
+ fit Arnoux, en le saisissant par le bras; puis, dans
 l'oreille: Vous n'etes guere malin, vous!>>
 
 Rien n'etait plaisant comme la salle a manger, peinte d'une couleur
@@ -3812,7 +3810,7 @@ d'heure. Enfin elle reparut, enleva Marthe, se jeta dans la voiture.
 
 <<Et ton bouquet? dit Arnoux.
 
---Non! non! ce n'est pas la peine!>>
+ non! ce n'est pas la peine!>>
 
 Frederic courait pour l'aller prendre; elle lui cria:
 
@@ -3846,7 +3844,7 @@ elle, et il lui soutenait la tete.
 
 Il repondit:
 
-<<Non! oh non!>>
+ oh non!>>
 
 De longs tourbillons de poussiere se levaient; on traversait Auteuil;
 toutes les maisons etaient closes; un reverbere, ca et la, eclairait
@@ -3875,6 +3873,7 @@ jolis cheveux bruns, la baisa au front, doucement.
 
 --Parce que vous aimez les enfants.
 
+--Pas tous!>>
 
 Il n'ajouta rien, mais il etendit la main gauche de son cote et la
 laissa toute grande ouverte,--s'imaginant qu'elle allait faire comme
@@ -4024,6 +4023,7 @@ Et tous trois resterent debout, a causer theatres et pieces nouvelles.
 Frederic, habitue aux grimaces des bourgeoises provinciales, n'avait vu
 chez aucune femme une pareille aisance de manieres, cette simplicite,
 qui est un raffinement, et ou les naifs apercoivent l'expression d'une
+sympathie instantanee.
 
 On comptait sur lui, des son retour; M. Dambreuse le chargea de ses
 souvenirs pour le pere Roque.
@@ -4133,6 +4133,7 @@ Alors, la bonne dame employa une autre methode. D'une voix tendre et
 avec de petits sanglots, elle se mit a lui parler de sa solitude, de
 sa vieillesse, des sacrifices qu'elle avait faits. Maintenant qu'elle
 etait plus malheureuse, il l'abandonnait. Puis, faisant allusion a sa
+fin prochaine:
 
 <<Un peu de patience, mon Dieu! bientot tu seras libre!>>
 
@@ -4426,6 +4427,7 @@ fils qu'elle lui conseillait de s'etablir a Troyes, avocat. Etant plus
 connu dans son pays que dans un autre, il pourrait plus facilement y
 trouver des partis avantageux.
 
+<<Ah! c'est trop fort!>> s'ecria Frederic.
 
 A peine avait-il son bonheur entre les mains qu'on voulait le lui
 prendre. Il signifia sa resolution formelle d'habiter Paris.
@@ -4568,7 +4570,7 @@ bonheur.
 
 Le quai de la gare se trouvant inonde, sans doute, on continua tout
 droit, et la campagne recommenca. Au loin, de hautes cheminees d'usines
-fumaient. Puis on tourna dans Ivry. On monta une rue; tout a coup il
+fumaient.  On monta une rue; tout a coup il
 apercut le dome du Pantheon.
 
 La plaine, bouleversee, semblait de vagues ruines. L'enceinte des
@@ -4678,6 +4680,7 @@ trouver son Regimbart.
 
 <<Connais pas!>> dit le gargotier d'un ton rogue.
 
+Frederic insistait; il reprit:
 
 <<Je ne le connais plus, monsieur!>> avec un haussement de sourcils
 majestueux et des oscillations de la tete qui decelaient un mystere.
@@ -4841,6 +4844,7 @@ pour le recevoir au bout de ses bras.
 
 Mais Arnoux, jurant qu'il n'y avait pas de danger continuait, et meme
 zezeyait des caresses en patois marseillais, son langage natal: <<Ah!
+brave pichoun, mon poulit rossignolet!!>> Puis il demanda a Frederic
 pourquoi il avait ete si longtemps sans leur ecrire, ce qu'il avait pu
 faire la-bas, ce qui le ramenait.
 
@@ -4984,7 +4988,7 @@ seraient abolies, un de ces jours, a la prochaine revolution.
 
 <<Tu crois? dit Frederic.
 
---Compte dessus! repondit-il. Ca ne peut pas durer! on souffre trop!
+--Compte dessus! repondit-il. Ca ne peut pas durer! 
 Quand je vois dans la misere des gens comme Senecal...
 
 --Toujours le Senecal! pensa Frederic.
@@ -5041,6 +5045,7 @@ Il se tut, puis tout a coup:
 <<Bah! l'avenir est gros!>>
 
 Et tambourinant la charge sur les vitres, il declama ces vers de
+Barthelemy:
 
   Elle reparaitra, la terrible Assemblee
   Dont, apres quarante ans, votre tete est troublee,
@@ -5088,6 +5093,7 @@ dans la chambre d'un malade. Puis Arnoux disparut pour dire adieu a sa
 femme. Il entassait les raisons:
 
 <<Tu sais bien que c'est serieux! Il faut que j'y aille, j'y ai besoin,
+on m'attend.
 
 <<Va, va, mon ami. Amuse-toi!>>
 
@@ -5132,6 +5138,7 @@ en ce moment-la. C'etait Mlle Rose-Annette Bron, la maitresse du lieu.
 
 --C'est fait! repondit-elle.
 
+--Ah! merci, mon ange!
 
 Et il voulut l'embrasser.
 
@@ -5268,7 +5275,7 @@ Pellerin;--Pellerin en grande toilette, le bras gauche dans la poitrine
 et tenant de la main droite, avec son chapeau, un gant blanc, dechire.
 
 <<Tiens, il y a longtemps qu'on ne vous a vu! Ou diable etiez-vous donc?
-parti en voyage, en Italie? Poncif, hein, l'Italie? pas si raide qu'on
+parti en voyage, en Italie?  pas si raide qu'on
 dit? N'importe! apportez-moi vos esquisses, un de ces jours?>>
 
 Et, sans attendre sa reponse, l'artiste se mit a parler de lui-meme.
@@ -5276,6 +5283,7 @@ Et, sans attendre sa reponse, l'artiste se mit a parler de lui-meme.
 Il avait fait beaucoup de progres, ayant reconnu definitivement la
 betise de la Ligne. On ne devait pas tant s'enquerir de la Beaute et
 de l'Unite, dans une oeuvre, que du caractere et de la diversite des
+choses.
 
 <<Car tout existe dans la nature, donc tout est legitime, tout est
 plastique. Il s'agit seulement d'attraper la note, voila. J'ai
@@ -5311,8 +5319,9 @@ d'Herbigny, un vieux de la vieille, qui n'a pour toute fortune que sa
 croix d'honneur et sa pension, sert d'oncle aux grisettes dans les
 solennites, arrange les duels et dine en ville.
 
+--Une canaille? dit Frederic.
 
---Non! un honnete homme!
+ un honnete homme!
 
 --Ah!>>
 
@@ -5542,6 +5551,7 @@ le tabouret du piano (seul endroit ou ses ailes lui permissent de
 s'asseoir), mastiquait placidement, sans discontinuer.
 
 <<Quelle fourchette! repetait l'Enfant de choeur ebahi, quelle
+fourchette!>>
 
 Et la Sphinx buvait de l'eau-de-vie, criait a plein gosier, se demenait
 comme un demon. Tout a coup ses joues s'enflerent, et, ne resistant
@@ -5566,7 +5576,8 @@ Cependant, Hussonnet, accroupi aux pieds de la Femme-Sauvage, braillait
 d'une voix enrouee, pour imiter l'acteur Grassot:
 
 <<Ne sois pas cruelle, o Celuta! cette petite fete de famille est
-charmante! Enivrez-moi de voluptes, mes amours! Folichonnons!
+charmante! Enivrez-moi de voluptes, mes amours! 
+
 
 Et il se mit a baiser les femmes sur l'epaule. Elles tressaillaient,
 piquees par ses moustaches; puis il imagina de casser contre sa tete
@@ -5699,6 +5710,7 @@ demanda si ce n'etaient pas ses affaires qui le tourmentaient.
 
 <<Nullement!>>
 
+Puis tout a coup:
 
 <<Vous le connaissiez, n'est-ce pas, le pere Oudry?>>
 
@@ -5929,6 +5941,7 @@ se tournant vers le jeune homme, doucement:
 <<Quel est votre petit nom?
 
 
+
 --Ah! Federico! Ca ne vous gene pas que je vous appelle comme ca?>>
 
 Et elle le regardait d'une facon caline, presque amoureuse.
@@ -5959,6 +5972,7 @@ Et elle exhiba un vieux coupon de soie rose qu'elle avait achete au
 Temple pour faire un pourpoint moyen age a Delmar.
 
 <<Il est venu aujourd'hui, n'est-ce pas?
+
 
 
 --C'est singulier!>>
@@ -6213,6 +6227,7 @@ des phalansteriens. Il declara Fourier un grand homme.
 les bouleversements d'empires des effets de la vengeance divine!
 C'est comme le sieur Saint-Simon et son eglise, avec sa haine de la
 Revolution francaise: un tas de farceurs qui voudraient nous refaire le
+catholicisme!>>
 
 M. de Cisy, pour s'eclairer, sans doute, ou donner de lui une bonne
 opinion, se mit a dire doucement:
@@ -6908,6 +6923,7 @@ auparavant avoir une large clientele, et, pour cela, se resoudre a
 quelques depenses, tant pour les frais de papeterie, d'imprimerie, de
 bureau, bref une somme de quinze mille francs.
 
+<<Je n'ai pas de fonds, dit Frederic.
 
 --Et nous donc!>> fit Deslauriers en croisant ses deux bras.
 
@@ -7369,6 +7385,7 @@ Devant la loge du portier, Mlle Vatnaz l'arreta.
 <<Elle vous a recu?
 
 
+
 --On vous a mis a la porte?
 
 --Comment le savez-vous?
@@ -7384,6 +7401,7 @@ trembler sur le sien. Tout a coup elle eclata.
 
 --Mais c'est lui! lui! Delmar!>>
 
+Cette revelation humilia Frederic; il reprit:
 
 <<En etes-vous bien sure?
 
@@ -7402,7 +7420,7 @@ Et, comme un torrent d'eau de vaisselle qui charrie des ordures, sa
 colere fit passer tumultueusement sous Frederic les hontes de sa rivale.
 
 <<Elle a couche avec Jumillac, avec Flacourt, avec le petit Allard,
-avec Bertinaux, avec Saint-Valery, le grele. Non! l'autre! Ils sont
+avec Bertinaux, avec Saint-Valery, le grele.  l'autre! Ils sont
 deux freres, n'importe! Et quand elle avait des embarras j'arrangeais
 tout. Qu'est-ce que j'y gagnais? Elle est si avare! Et puis, vous en
 conviendrez, c'etait une jolie complaisance que de la voir, car enfin,
@@ -7489,7 +7507,7 @@ des lubies! Ainsi, celle-la, par exemple, n'est pas mauvaise. Non, au
 contraire! Eh bien, elle s'amuse depuis une heure a me taquiner avec un
 tas d'histoires.
 
---Elles sont vraies! repliqua Mme Arnoux impatientee. Car, enfin, tu
+--Elles sont vraies! repliqua Mme Arnoux impatientee. 
 
 --Moi?
 
@@ -7958,7 +7976,7 @@ l'etre?>>
 
 Avait-elle parle? Etait-ce une allusion? Frederic se hata de repondre:
 
-<<Non! pas du tout! au contraire!
+ pas du tout! au contraire!
 
 --Eh bien, alors?
 
@@ -7968,6 +7986,7 @@ Arnoux reprit:
 
 <<Pourquoi ne venez-vous plus la-bas?>>
 
+Frederic promit d'y retourner.
 
 <<Ah! j'oubliais! vous devriez..., en causant de Rosanette..., lacher
 a ma femme quelque chose... je ne sais quoi, mais vous trouverez...
@@ -8342,7 +8361,7 @@ Et, vingt-quatre heures apres, il repondit a Deslauriers:
 L'avocat revint trois jours de suite. Il le pressait d'ecrire au
 notaire. Il offrit meme de faire le voyage du Havre.
 
-<<Non! c'est inutile! je vais y aller!>>
+ c'est inutile! je vais y aller!>>
 
 La semaine finie, Frederic demanda timidement au sieur Arnoux ses
 quinze mille francs.
@@ -8584,7 +8603,7 @@ Elle rougit quelque peu; et, avec un air de compassion railleuse:
 Elle repondit, tout en faisant tourner la tige entre ses doigts, comme
 le fil d'un fuseau:
 
-<<Non! je la garderai!>>
+ je la garderai!>>
 
 Elle appela d'un geste la bonne, qui prit l'enfant sur son bras: puis,
 au seuil de la porte, dans la rue, Mme Arnoux aspira la fleur, en
@@ -8832,7 +8851,7 @@ harnais decousus pendaient dans les brancards, stationnait devant le
 bureau des bagages, solitairement.
 
 Un gamin s'offrit a decouvrir <<le pere Pilon>>. Il revint au bout de dix
-minutes; le pere Pilon dejeunait. Frederic, n'y tenant plus, partit. La
+minutes; le pere Pilon dejeunait.  La
 barriere du passage etait close. Il fallut attendre que deux convois
 eussent defile. Enfin il se precipita dans la campagne.
 
@@ -9013,6 +9032,7 @@ avaient laisses.
 Sur des claires-voies, dans des coins, au milieu des corridors, partout
 s'alignaient des poteries.
 
+Frederic commencait a s'ennuyer.
 
 <<Cela vous fatigue peut-etre?>> dit-elle.
 
@@ -9066,7 +9086,7 @@ des couleurs. Frederic interrogea d'un regard anxieux Mme Arnoux. Elle
 demeura impassible, ne voulant sans doute ni etre seule avec lui ni le
 quitter cependant. Il lui offrit son bras.
 
-<<Non! merci bien! l'escalier est trop etroit!>>
+ merci bien! l'escalier est trop etroit!>>
 
 Et, quand ils furent en haut, Senecal ouvrit la porte d'un appartement
 rempli de femmes.
@@ -9106,6 +9126,7 @@ amende! Je me fiche de vous, mon bonhomme!>>
 Senecal, qui se promenait les mains derriere le dos, comme un pion dans
 une salle d'etudes, se contenta de sourire.
 
+<<Article 13, insubordination, dix francs!>>
 
 La Bordelaise se remit a sa besogne. Mme Arnoux, par convenance, ne
 disait rien, mais ses sourcils se froncerent.
@@ -9182,7 +9203,7 @@ autre, on s'eloigne.
 
 --Ainsi le bonheur est impossible?
 
---Non! Mais on ne le trouve jamais dans le mensonge, les inquietudes et
+ Mais on ne le trouve jamais dans le mensonge, les inquietudes et
 le remords.
 
 --Qu'importe! s'il est paye par des joies sublimes.
@@ -9207,13 +9228,14 @@ A ce moment-la, le petit garcon accourut.
 
 --Oui, tout a l'heure!>>
 
+Frederic se leva; en meme temps Marthe parut.
 
 Il ne pouvait se resoudre a s'en aller; et, avec un regard tout plein
 de supplications:
 
 <<Ces femmes dont vous parlez sont donc bien insensibles?
 
---Non! mais sourdes quand il le faut.>>
+ mais sourdes quand il le faut.>>
 
 Et elle se tenait debout, sur le seuil de sa chambre, avec ses deux
 enfants a ses cotes. Il s'inclina sans dire un mot. Elle repondit
@@ -9276,10 +9298,7 @@ FIN DU PREMIER VOLUME.
 
 
 
-  TABLE
-
-
-                                        Pages.
+  
 
   PREMIERE PARTIE
 
@@ -9338,70 +9357,81 @@ FIN DU PREMIER VOLUME.
 
 
 
-*** END OF THE PROJECT GUTENBERG EBOOK OEUVRES COMPLETES DE GUSTAVE FLAUBERT, TOME 3: L'EDUCATION SENTIMENTALE, V. 1 ***
+
+
+       
+
+
 
 
     
 
+1.B.      
 
+1.C.     
 
+1.D.    
 
-
-
-
-www.gutenberg.org/license.
-
-
-
-
-
-
-
-
+1.E.    
   
+1.E.2.  
 
+1.E.3.  
 
+1.E.4. 
 
-Gutenberg(tm) License.
+1.E.5. 
 
+1.E.6.   
 
+1.E.7. 
 
-
+1.E.8.    
     
-        works.
+     
+    
+    
     
     
     
 
+1.E.9.  
 
 1.F.
 
+1.F.1.  
 
-DAMAGE.
+1.F.2.   
+
+1.F.3.     
+
+1.F.4. 
+
+1.F.5.   
+
+1.F.6. 
+
+  
+
+  
+
+   
+
+   
+
+   
 
 
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
+ 
 
-Defect you cause.
-
-
-
-
-
-
-
-
-
-visit www.gutenberg.org/donate.
-
-
-
+  To
 donate, please visit: www.gutenberg.org/donate.
 
+  
 
-volunteer support.
+ 
+
 
 
 
